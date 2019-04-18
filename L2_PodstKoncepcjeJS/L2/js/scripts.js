@@ -1,3 +1,11 @@
+var container = document.querySelector("title");
+container.text = "Ala ma kota";
+
+/*var allDivs = document.querySelectorAll("div");
+allDivs[0].innerHTML = " aaaaaaaaaaaaaaaaaaa";*/
+
+
+/*
 let name = "Artur"; // 'Artur' tez bedzie dzialac !
 var name2 ; //deklaracja bez definicji tez jest git
 var nameAndSurname = name + " " + "Grabowski";
@@ -49,3 +57,7 @@ function dodaj(liczba1, liczba2 ) {
 
 console.log(dodaj());
 console.log(dodaj(2,1));
+
+(function () {
+
+})();*/
