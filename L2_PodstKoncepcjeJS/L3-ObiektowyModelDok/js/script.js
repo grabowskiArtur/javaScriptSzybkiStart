@@ -21,6 +21,7 @@
         tooltip = div;
     }
 
+
     function showSth(e) { // e od event czyli teraz sie odnosimy do tego konkretnego dymka
         console.log(e.target); // tu masz img src itd czyli cala linijke z html pobrana
         console.log(e);
